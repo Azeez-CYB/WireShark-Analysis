@@ -25,3 +25,12 @@ To capture and analyse live network traffic using Wireshark and identify protoco
 
 ## Conclusion
 This analysis demonstrates the importance of packet inspection for network monitoring and cybersecurity threat detection.
+
+
+## Skills Demonstrated
+
+- Packet capture and inspection  
+- Network protocol analysis  
+- Traffic filtering using Wireshark  
+- Security-focused observation and reporting  
+- Technical documentation  
