@@ -34,3 +34,16 @@ This analysis demonstrates the importance of packet inspection for network monit
 - Traffic filtering using Wireshark  
 - Security-focused observation and reporting  
 - Technical documentation  
+
+
+## 📸 Project Screenshots
+
+### Live Packet Capture
+![Live Capture](live_capture.png)
+
+### DNS Traffic Filter
+![DNS Traffic](dns_traffic.png)
+
+### TCP Packet Analysis
+![TCP Handshake](tcp_handshake.png)
+
